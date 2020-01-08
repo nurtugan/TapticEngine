@@ -54,7 +54,7 @@ TapticEngine.notification.prepare()
 ```
 
 ## Requirements
-- Swift 4.0+
+- Swift 5.1+
 - iOS 9.0+ (**But it works on iOS 10 or later. On iOS 9, it does nothing.**)
 
 ## Installation
